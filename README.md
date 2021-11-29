@@ -1,10 +1,10 @@
-## educative_ostep
+# educative_ostep
 
 Operating Systems by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
 
-## table of contents
+# table of contents
 
-# Introduction
+## Introduction
 
 A Dialogue on the Course
 Introduction to Operating Systems
@@ -16,7 +16,7 @@ Design Goals
 Some History
 Summary
 
-# Virtualization: Processes
+## Virtualization: Processes
 
 A Dialogue on Virtualization
 Introduction to Processes
@@ -30,7 +30,7 @@ Simulator
 Exercise
 Quiz on Processes
 
-# Virtualization: Process API
+## Virtualization: Process API
 
 Introduction to Process API
 The fork() System Call
@@ -43,7 +43,7 @@ Summary
 Exercise
 Quiz on Process API
 
-# Virtualization: Direct Execution
+## Virtualization: Direct Execution
 
 Introduction to Direct Execution
 Basic Technique: Limited Direct Execution
@@ -54,7 +54,7 @@ Summary
 Exercise
 Quiz on Direct Execution
 
-# Virtualization: CPU Scheduling
+## Virtualization: CPU Scheduling
 
 Introduction to CPU Scheduling
 Workload Assumptions and Scheduling Metrics
@@ -69,7 +69,7 @@ Simulator
 Exercise
 Quiz on CPU Scheduling
 
-# Virtualization: Multi-Level Feedback
+## Virtualization: Multi-Level Feedback
 
 Introduction to Multi-Level Feedback
 MLFQ: Basic Rules
@@ -82,7 +82,7 @@ Simulator
 Exercise
 Quiz on Multi-level Feedback
 
-# Virtualization: Lottery Scheduling
+## Virtualization: Lottery Scheduling
 
 Introduction to Lottery Scheduling
 Basic Concept: Tickets Represent Your Share
@@ -98,7 +98,7 @@ Simulator
 Exercise
 Quiz on Lottery Scheduling
 
-# Virtualization: Multi-CPU Scheduling
+## Virtualization: Multi-CPU Scheduling
 
 Introduction to Multi-CPU Scheduling
 Background: Multiprocessor Architecture
@@ -113,7 +113,7 @@ Exercise
 Quiz on Multi-CPU Scheduling
 Summary Dialogue on CPU Virtualization
 
-# Virtualization: Address Space
+## Virtualization: Address Space
 
 A Dialogue on Memory Virtualization
 Early Systems
@@ -124,7 +124,7 @@ Summary
 Exercise
 Quiz on Address Space
 
-# Virtualization: Memory API
+## Virtualization: Memory API
 
 Introduction to Memory API
 Types of Memory
@@ -137,7 +137,7 @@ Summary
 Exercise
 Quiz on Memory API
 
-# Virtualization: Address Translation
+## Virtualization: Address Translation
 
 Introduction to Address Translation
 Assumptions
@@ -150,7 +150,7 @@ Simulator
 Exercise
 Quiz on Address Translation
 
-# Virtualization: Segmentation
+## Virtualization: Segmentation
 
 Introduction to Segmentation
 Segmentation: Generalized Base/Bounds
@@ -164,7 +164,7 @@ Simulator
 Exercise
 Quiz on Segmentation
 
-# Virtualization: Free Space Management
+## Virtualization: Free Space Management
 
 Introduction to Free Space Management
 Assumptions
@@ -176,7 +176,7 @@ Simulator
 Exercise
 Quiz on Free Space Management
 
-# Virtualization: Introduction to Paging
+## Virtualization: Introduction to Paging
 
 Introduction to Paging
 A Simple Example And Overview
@@ -189,7 +189,7 @@ Simulator
 Exercise
 Quiz on Introduction to Paging
 
-# Virtualization: Translation Lookaside Buffers
+## Virtualization: Translation Lookaside Buffers
 
 Introduction to Translation Lookaside Buffers
 TLB Basic Algorithm
@@ -203,7 +203,7 @@ Summary
 Exercise
 Quiz on Translation Lookaside Buffer
 
-# Virtualization: Advanced Page Tables
+## Virtualization: Advanced Page Tables
 
 Introduction to Advanced Page Tables
 Simple Solution: Bigger Pages
@@ -216,7 +216,7 @@ Simulator
 Exercise
 Quiz on Advanced Page Tables
 
-# Virtualization: Swapping: Mechanisms
+## Virtualization: Swapping: Mechanisms
 
 Introduction to Swapping: Mechanisms
 Swap Space
@@ -230,7 +230,7 @@ Instructions for Exercise
 Exercise
 Quiz on Swapping: Mechanisms
 
-# Virtualization: Swapping: Policies
+## Virtualization: Swapping: Policies
 
 Introduction to Swapping: Policies
 Cache Management
@@ -249,7 +249,7 @@ Simulator
 Exercise
 Quiz on Swapping: Policies
 
-# Virtualization: Complete VM Systems
+## Virtualization: Complete VM Systems
 
 Introduction to Complete VM Systems
 VAX/VMS Virtual Memory: Memory Management Hardware
@@ -266,7 +266,7 @@ Summary
 Quiz on Complete VM Systems
 Summary Dialogue on Memory Virtualization
 
-# Concurrency: Concurrency and Threads
+## Concurrency: Concurrency and Threads
 
 A Dialogue on Concurrency
 Introduction to Concurrency and Threads
@@ -281,7 +281,7 @@ Simulator
 Exercise
 Quiz on Concurrency and Threads
 
-# Concurrency: Thread API
+## Concurrency: Thread API
 
 Introduction to Thread API
 Thread Creation
@@ -294,7 +294,7 @@ Simulator
 Exercise
 Quiz on Thread API
 
-# Concurrency: Locks
+## Concurrency: Locks
 
 Introduction to Locks
 Locks: The Basic Idea
@@ -317,7 +317,7 @@ Summary
 Exercise
 Quiz on Locks
 
-# Concurrency: Locked Data Structures
+## Concurrency: Locked Data Structures
 
 Introduction to Locked Data Structures
 Concurrent Counters
@@ -328,7 +328,7 @@ Summary
 Exercise
 Quiz on Locked Data Structures
 
-# Concurrency: Conditional Variables
+## Concurrency: Conditional Variables
 
 Introduction to Conditional Variables
 Definition and Routines
@@ -341,7 +341,7 @@ Instructions For Exercise
 Exercise
 Quiz on Condition Variables
 
-# Concurrency: Semaphores
+## Concurrency: Semaphores
 
 Introduction to Semaphore
 Semaphores: A Definition
@@ -357,7 +357,7 @@ Summary
 Exercise
 Quiz on Semaphores
 
-# Concurrency: Concurrency Bugs
+## Concurrency: Concurrency Bugs
 
 Introduction to Concurrency Bugs
 What Types of Bugs Exist?
@@ -371,7 +371,7 @@ Instructions for Exercise
 Exercise
 Quiz on Concurrency Bugs
 
-# Concurrency: Event-Based Concurrency
+## Concurrency: Event-Based Concurrency
 
 Introduction to Event-Based Concurrency
 The Basic Idea: An Event Loop
@@ -386,7 +386,7 @@ Exercise
 Quiz on Event-based Concurrency
 Summary Dialogue on Concurrency
 
-# Persistence: I/O Devices
+## Persistence: I/O Devices
 
 A Dialogue on Persistence
 Introduction to I/O Devices
@@ -402,7 +402,7 @@ Historical Notes
 Summary
 Quiz on I/O Devices
 
-# Persistence: Hard Disk Drives
+## Persistence: Hard Disk Drives
 
 Introduction to Hard Disk Drives
 The Interface
@@ -418,7 +418,7 @@ Simulator
 Exercise
 Quiz on Hard Disk Drives
 
-# Persistence: Redundant Disk Arrays (RAID)
+## Persistence: Redundant Disk Arrays (RAID)
 
 Introduction to RAID
 Interface and RAID Internals
@@ -435,7 +435,7 @@ Simulator
 Exercise
 Quiz on Redundant Disk Arrays (RAID)
 
-# Persistence: Files and Directories
+## Persistence: Files and Directories
 
 Introduction to Files and Directories
 Files and Directories
@@ -457,7 +457,7 @@ Summary
 Exercise
 Quiz on Files and Directories
 
-# Persistence: File System Implementation
+## Persistence: File System Implementation
 
 Introduction to File System Implementation
 The Way to Think
@@ -472,7 +472,7 @@ Simulator
 Exercise
 Quiz on File System Implementation
 
-# Persistence: Fast File System
+## Persistence: Fast File System
 
 Introduction to Fast File System
 The Problem: Poor Performance
@@ -486,7 +486,7 @@ Simulator
 Exercise
 Quiz on Fast File System
 
-# Persistence: FSCK and Journaling
+## Persistence: FSCK and Journaling
 
 Introduction to FSCK and Journaling
 A Detailed Example
@@ -499,7 +499,7 @@ Simulator
 Exercise
 Quiz on FSCK and Journaling
 
-# Persistence: Log-Structured File System
+## Persistence: Log-Structured File System
 
 Introduction to Log-Structured File System
 Writing to Disk Sequentially
@@ -519,7 +519,7 @@ Simulator
 Exercise
 Quiz on Log-Structured File System
 
-# Persistence: Flash-based SSDs
+## Persistence: Flash-based SSDs
 
 Introduction to Flash-based SSDs
 Storing a Single Bit
@@ -538,7 +538,7 @@ Simulator
 Exercise
 Quiz on Flash-based SSDs
 
-# Persistence: Data Integrity and Protection
+## Persistence: Data Integrity and Protection
 
 Introduction to Data Integrity and Protection
 Disk Failure Modes
@@ -555,7 +555,7 @@ Exercise
 Quiz on Data Integrity and Protection
 Summary Dialogue on Persistence
 
-# Distribution: Distributed Systems
+## Distribution: Distributed Systems
 
 A Dialogue on Distribution
 Introduction to Distributed Systems
@@ -568,7 +568,7 @@ Summary
 Exercise
 Quiz on Distributed Systems
 
-# Distribution: Network File System (NFS)
+## Distribution: Network File System (NFS)
 
 Introduction to Network File System (NFS)
 A Basic Distributed File System
@@ -585,7 +585,7 @@ Instructions For Exercise
 Exercise
 Quiz on Network File System (NFS)
 
-# Distribution: Andrew File System (AFS)
+## Distribution: Andrew File System (AFS)
 
 Introduction to Andrew File System (AFS)
 AFS Version 1
