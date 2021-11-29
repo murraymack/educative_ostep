@@ -13,6 +13,7 @@ Run `process-run.py` with the following flags: `-l 5:100,5:100`. What should the
 Asdf
 
 ```shell
+$ ./process-run.py -l 5:100,5:100 -c -p
 Time     PID: 0     PID: 1        CPU        IOs 
   1     RUN:cpu      READY          1            
   2     RUN:cpu      READY          1            
