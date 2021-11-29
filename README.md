@@ -6,15 +6,15 @@ Operating Systems by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau
 
 ## Introduction
 
-> A Dialogue on the Course
-> Introduction to Operating Systems
-> Virtualizing The CPU
-> Virtualizing Memory
-> Concurrency
-> Persistence
-> Design Goals
-> Some History
-> Summary
+> A Dialogue on the Course\
+> Introduction to Operating Systems\
+> Virtualizing The CPU\
+> Virtualizing Memory\
+> Concurrency\
+> Persistence\
+> Design Goals\
+> Some History\
+> Summary\
 
 ## Virtualization: Processes
 
